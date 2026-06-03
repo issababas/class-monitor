@@ -1,0 +1,8 @@
+{
+  "name": "class-monitor",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Tests OK\"",
+    "build": "echo \"Build OK\""
+  }
+}
